@@ -1,0 +1,102 @@
+body{
+    background-color: rgba(140, 210, 31, 0.9);
+}
+
+h1{
+    color: whitesmoke;
+}
+
+li{
+    color: white;
+    list-style-type: disc;
+}
+
+.container{
+    background-color: aqua;
+    border-radius: 15px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.item{
+    color: brown;
+    font-style: italic;
+    list-style-type: none;
+}
+
+#identificador{
+    background-color: purple;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    padding-left: 30px;
+}
+
+.button{
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: green;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+
+ul.tryer li{
+    display: inline;
+    padding-right: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.appbar{
+    width: 100%;
+    height: 10%;
+    padding-left: 5px;
+}
+
+#cuerpo{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+ul.content li{
+    display: inline;
+    padding-right: 20px;
+}
+
+.textfield{
+    background-color: transparent;
+    border: 0px;
+    border-bottom: 1px white solid;
+}
+
+#titulo{
+    color: black;
+    font-weight: bold;
+}
+
+#contenido{
+    border-radius: 15px;
+    padding: 10px;
+    background-color: rgba(240, 7, 5, 0.3);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h3{
+    color: white;
+}
+
+#muestra{
+    background-image: url(https://picsum.photos/300/200);
+    width: 300px;
+    height: 200px;
+}
